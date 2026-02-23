@@ -1,1 +1,1 @@
-# nuvem-semana1-jo-o-cosmo
+# nuvem-semana1-joao-cosmo
