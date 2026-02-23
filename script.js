@@ -17,4 +17,8 @@ if (!resp.ok) throw new Error("HTTP " + resp.status);
 const data = await resp.json();
 apiEl.textContent = JSON.stringify(data, null, 2);
 } catch (err) {
-apiEl.textContent = "Erro no fetch: " + err.message;}
+apiEl.textContent = "Erro no fetch: " + err.message;
+}
+
+
+});
